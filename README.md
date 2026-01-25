@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Web Development skills<br>👯 I’m looking to collaborate on fun projects<br>🌱 I’m currently practicing Data Structures and Algorithms<br>Beginning my journy learning Data Science and Machine Learning<br>
+🔭 I’m currently working on my Web Development skills<br>👯 I’m looking to collaborate on fun projects<br>🌱 I’m currently practicing Data Structures and Algorithms<br>👨‍💻Beginning my journey learning Data Science and Machine Learning<br>
 
 
 ## 🌐 Socials:
