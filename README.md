@@ -9,4 +9,8 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pchhabra07&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=pchhabra07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pchhabra07&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pchhabra07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
